@@ -31,8 +31,8 @@ A fully playable **Atari Breakout arcade game** built entirely in **x86 16-bit A
 
 | Key         | Action                        |
 |-------------|-------------------------------|
-| `LEFT`  →   | Move paddle left              |
-| `RIGHT` →   | Move paddle right             |
+| `LEFT`    | Move paddle left              |
+| `RIGHT`   | Move paddle right             |
 | `SPACE`     | Pause / Resume                |
 | `ENTER`     | Confirm / Advance screen      |
 | `ESC`       | Return to menu / Exit         |
@@ -124,8 +124,8 @@ fpcoal.com
 ## File Structure
 
 ```
-fpcoal.asm      ← Complete game source (single file)
-README.md       ← This file
+fpcoal.asm      Complete game source (single file)
+README.md        This file
 ```
 
 ---
